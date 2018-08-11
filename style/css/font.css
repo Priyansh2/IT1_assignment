@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Tangerine';
+
+    src: url('../../fonts/tangerine_regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Rancho';
+    src: url('../../fonts/rancho_regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Indie Flower';
+
+    src: url('../../fonts/indie_flower.woff') format('woff');
+}
+@font-face {
+    font-family: 'Pacifico';
+
+    src: url('../../fonts/pacifico_regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('../../fonts/kaushan_script.woff') format('woff');
+}
+@font-face {
+    font-family: 'Creepster';
+    src: url('../../fonts/creepster_regular.ttf') format('ttf');
+}
